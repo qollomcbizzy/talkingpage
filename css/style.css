@@ -1,0 +1,24 @@
+h1{
+  color: blue;
+}
+#house-showing{
+  display:none;
+}
+#house-hidden{
+
+}
+.clickable{
+  cursor: pointer;
+}
+.clickable:hover{
+  text-decoration: underline;
+}
+.green-background{
+  background-color: green;
+}
+.yellow-background{
+  background-color: yellow;
+}
+.red-background{
+  background-color: red;
+}
